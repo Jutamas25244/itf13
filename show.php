@@ -47,6 +47,11 @@ $res = mysqli_query($conn, 'SELECT * FROM guestbook');
           </table>
         </div>
       </div>
+      <div class="row">
+        <div class="col">
+          <a href="form.html">Sign Guestbook</a>
+        </div>
+      </div>
     </div>
   </div>
 </body>
