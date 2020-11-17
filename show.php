@@ -48,8 +48,8 @@ $res = mysqli_query($conn, 'SELECT * FROM guestbook');
         </div>
       </div>
       <div class="row">
-        <div class="col">
-          <a href="form.html">Sign Guestbook</a>
+        <div class="col text-center">
+          <a href="form.html" class="btn btn-info">Sign Guestbook</a>
         </div>
       </div>
     </div>
